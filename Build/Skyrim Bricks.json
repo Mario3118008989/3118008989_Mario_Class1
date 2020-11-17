@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Brick Breaker",
+"dataUrl": "Skyrim Bricks.data.unityweb",
+"wasmCodeUrl": "Skyrim Bricks.wasm.code.unityweb",
+"wasmFrameworkUrl": "Skyrim Bricks.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Skyrim Bricks.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
